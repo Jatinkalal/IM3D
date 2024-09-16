@@ -21,8 +21,12 @@ From the previous architecture, the need for user-controlled generation led to t
 Results from PCA Varied, first row represents chair type1 and second row of type2, with each of 4 components individually varied.
 
 ## Results from C-VAE (Architecture 2)
-![C-VAE]()
-Here the user provides the required point cloud through a conditonal one hot vector to generater desired point cloud.
+
+| ![Cantilever legs](https://github.com/Jatinkalal/IM3D/blob/main/Images/ezgif-3-f385cc73ac-2.gif) | ![Swivel legs](https://github.com/Jatinkalal/IM3D/blob/main/Images/ezgif-2-a2dca0254c.gif) | ![Straight Armrest](https://github.com/Jatinkalal/IM3D/blob/main/Images/ezgif-2-98effdb0b7.gif) |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| Here the conditonal vector was to generate cantilever Legs.           | Here the conditon was to generate swivel legs.           | Here the conditon was to generate straight armrest.           |
+
+
 
 
 
