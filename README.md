@@ -24,7 +24,7 @@ Results from PCA Varied, first row represents chair type1 and second row of type
 
 | ![Cantilever legs](https://github.com/Jatinkalal/IM3D/blob/main/Images/Cantilever.gif) | ![Swivel legs](https://github.com/Jatinkalal/IM3D/blob/main/Images/Swivel.gif) | 
 |:--------------------------:|:--------------------------:|
-| Here the conditonal vector was to generate cantilever Legs.           | Here the conditon was to generate swivel legs.           
+| Here the conditonal vector was to generate cantilever legs during the inference from a random latent vector          | Here the conditon was to generate swivel legs during the inference from a random noise vector.          
 
 
 
